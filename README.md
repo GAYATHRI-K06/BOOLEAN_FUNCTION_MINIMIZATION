@@ -36,7 +36,7 @@ Hardware – PCs, Cyclone II , USB flasher
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```````
 Developed by: RegisterNumber:212223230061
-`````
+
  module exp_2(A,B,C,D,F1);
  input A,B,C,D;
  output F1;
@@ -50,7 +50,9 @@ Developed by: RegisterNumber:212223230061
  endmodule
 ````````
 **RTL realization**
+
 ![image](https://github.com/user-attachments/assets/72709309-e3c6-4677-83aa-7a254b0b8f91)
+
  ## TRUTH TABLE
  ![image](https://github.com/user-attachments/assets/c0b17d8d-d746-4f7b-b379-1fa54dfcc8c4)
 
